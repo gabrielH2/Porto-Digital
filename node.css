@@ -1,0 +1,22 @@
+body{
+    background-color:#BFBFCD;
+
+}
+#one{
+    background-color:#050539;
+    text-align: right;
+    width: auto;
+    height: 40px; 
+    
+   
+}
+#two{
+    background-color:#050539;
+    text-align: right;
+    width: auto;
+    height: 250px;
+}
+.bi-person-circle{
+    color: #FFFF;      
+}
+
